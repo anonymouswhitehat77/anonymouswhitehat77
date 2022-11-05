@@ -8,7 +8,7 @@
 
 <br/>
 
-## 🛠 &nbsp;Tech Stuff
+## 🛠 Hanya Untuk Tampilan Saya Masih Belajar
 
 <div align="left">
   <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github" alt="arugaz"/>
