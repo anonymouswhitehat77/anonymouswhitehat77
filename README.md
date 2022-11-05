@@ -3,8 +3,13 @@
 ### Hi there, I'm Gilang Riyoko 👋
 
 ### and here is my stats
-<p align="center">https://camo.githubusercontent.com/3986fdef016105b2217a0fa57b66c566550e5dfdb27e9bd939211823b9f60f11/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612662675f636f6c6f723d33302c6539363434332c393034653935267469746c655f636f6c6f723d66666626746578745f636f6c6f723d666666img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatriaAPN&layout=compact&theme=monokai&langs_count=12"/><br />
-</p>
+## 📱 &nbsp;Contacts
+
+<div align="center">
+  <a href="https://api.whatsapp.com/send/?phone=6283861538580"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="arugaz"/></a>
+  <a href="https://instagram.com/gilang_riyoko"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="arugaz"/></a>
+  <a href="mailto:gilangriyoko@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="arugaz"/></a>
+</div>
 
 <!--
 **GilangRiyoko/GilangRiyoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
