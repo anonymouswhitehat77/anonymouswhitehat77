@@ -3,10 +3,7 @@
 ### Hi there, I'm Gilang Riyoko 👋
 
 ### and here is my stats
-<p align="center"><img src="https://github.com/anonymouswhitehat77"/><br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=GilangRiyoko&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatriaAPN&theme=monokai"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatriaAPN&layout=compact&theme=monokai&langs_count=12"/><br />
+<p align="center">https://camo.githubusercontent.com/3986fdef016105b2217a0fa57b66c566550e5dfdb27e9bd939211823b9f60f11/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612662675f636f6c6f723d33302c6539363434332c393034653935267469746c655f636f6c6f723d66666626746578745f636f6c6f723d666666img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatriaAPN&layout=compact&theme=monokai&langs_count=12"/><br />
 </p>
 
 <!--
